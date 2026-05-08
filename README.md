@@ -32,11 +32,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=ramsurwase&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ram's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=ramsurwase&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsurwase&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -50,8 +45,3 @@ An animated creator-style portal.
 - **Highlight:** Custom animations designed to mirror high-energy YouTube branding.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramsurwase&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
